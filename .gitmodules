@@ -1,0 +1,20 @@
+[submodule "SDL"]
+	path = SDL
+	url = https://github.com/libsdl-org/SDL.git
+	branch = release-3.4.14
+[submodule "SDL_mixer"]
+	path = SDL_mixer
+	url = https://github.com/libsdl-org/SDL_mixer.git
+	branch = release-3.2.4
+[submodule "SDL_ttf"]
+	path = SDL_ttf
+	url = https://github.com/libsdl-org/SDL_ttf.git
+	branch = release-3.2.2
+[submodule "box2d"]
+	path = box2d
+	url = https://github.com/erincatto/box2d.git
+	branch = v3.1.1
+[submodule "glm"]
+	path = glm
+	url = https://github.com/g-truc/glm.git
+	branch = 1.0.3
